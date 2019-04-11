@@ -1,0 +1,11 @@
+{
+  "name": "fix-parse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.2.0",
+    "fixparser": "^2.7.4",
+    "moment": "^2.24.0"
+  }
+}
